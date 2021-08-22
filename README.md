@@ -2,16 +2,25 @@
 
 This repo has training content for git
 
+
 **Document References**
-	• https://git-scm.com/docs
+
+• https://git-scm.com/docs
 
 **Downloads**
-	•  Windows
-		○ https://git-scm.com/download/win
-	•  Linux
-		○ https://git-scm.com/download/linux
-	• Mac OS
-		○ https://git-scm.com/download/mac
+
+• Windows
+
+	○ https://git-scm.com/download/win
+	
+• Linux
+
+	○ https://git-scm.com/download/linux
+	
+• Mac OS
+
+	○ https://git-scm.com/download/mac
+	
 
 **Session 1**
 
