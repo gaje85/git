@@ -1,123 +1,129 @@
 # git 
+
 This repo has training content for git
 
 **Document References**
-https://git-scm.com/docs
+	• https://git-scm.com/docs
 
 **Downloads**
- Windows
-  https://git-scm.com/download/win
-  Linux
-  https://git-scm.com/download/linux
-  Mac OS
-  https://git-scm.com/download/mac
+	•  Windows
+		○ https://git-scm.com/download/win
+	•  Linux
+		○ https://git-scm.com/download/linux
+	• Mac OS
+		○ https://git-scm.com/download/mac
 
 **Session 1**
 
 **Topics**
 
-Need for source control
+	• Need for source control
 
-Why Git ?
+	• Why Git ?
 
-Key Concepts 
+	• Key Concepts 
 
-Git LifeCycle and Stages
+	• Git LifeCycle and Stages
 
-Git Installation and Setup
+	• Git Installation and Setup
 
-Quick Start / The Basic Commands
-  git-init 
-    Initializing a repository
+	• Quick Start / The Basic Commands
+		○ git-init 
+		○ Initializing a repository
     
-  git clone
-    Clones a repository into a newly created directory
+	• git clone
+		○ Clones a repository into a newly created directory
     
-  git branch
-    List, create, or delete branches
+	• git branch
+		○  List, create, or delete branches
     
-  git add
-    Add file contents to the index
+	• git add
+		○ Add file contents to the index
     
-  git status
-    Show the working tree status
+	• git status
+		○  Show the working tree status
     
-  git commit
-    Record changes to the repository
+	• git commit
+		○ Record changes to the repository
     
-  git fetch
-    Download objects and refs from another repository
+	• git fetch
+		○ Download objects and refs from another repository
     
-  git pull 
-    Fetch from and integrate with another repository or a local branch
+	• git pull 
+		○ Fetch from and integrate with another repository or a local branch
     
-  git push
-    Update remote refs along with associated objects
+	• git push
+		○ Update remote refs along with associated objects
     
-  Git log
-    Show commit logs
+	• Git log
+		○ Show commit logs
 
 
-Branching and Merging
+	• Branching and Merging
+		○ Working with branches
+		○ Types of merging
+		○ Merge conflicts
 
-  Working with branches
-  Types of merging
-  Merge conflicts
+	• Working with remote repository
+		○ Local / Bare repo
+		○ Hosting Services
+
+	• Github 
+		○ Account creation
+		○ Create a new repository
+		○ Clone the repo using https
+		○ Clone using ssh
+		○ Auth Tokens
+		○ Pushing changes to github
   
 
-Working with remote repository
-
-Github 
-  Account creation
-  Create a new repository
-  Clone the repo using https
-  Clone using ssh
-  Auth Tokens
-  Pushing changes to github
-  
+	• Q & A
 
 
 **Session 2 **
 
 Advanced Git
 
-  Git internals
-    objects
-    refs
-    packed refs
-    HEAD
-    config
-    branches
-    hooks
-    index
-    info
-    logs
+	• Git internals
+		○ objects
+		○ refs
+		○ packed refs
+		○ HEAD
+		○ config
+		○ branches
+		○ hooks
+		○ index
+		○ info
+		○ logs
 
- Advanced Git configs
-  Get and set repository or global options
+	• Advanced Git configs
+		○ Get and set repository or global options
 
 
-  Comparisons 
+	•  Comparisons 
     
-    Comparing working directory and Staging Area
-    Comparing Staging Area and Git repository
-    Comparing between commits
-    Comparaing between local and remote branches
+		○  Comparing working directory and Staging Area
+		○  Comparing Staging Area and Git repository
+		○  Comparing between commits
+		○  Comparing between local and remote branches
     
   
-  Merge tool
-    P4Merge
-    Merge conflicts
-    Resolving merge conflicts
+	• Merge tool
+		○ P4Merge
+		○ Merge conflicts
+		○ Resolving merge conflicts
 
-  Stashing
-    Stash the changes in a dirty working directory away
+	• Stashing
+		○ Stash the changes in a dirty working directory away
 
-  Rebasing
-    Reapply commits on top of another base tip
+	• Rebasing
+		○ Reapply commits on top of another base tip
     
-  Git Garbage Collection
+	• Git Garbage Collection
   
-  RefLogs
+	• RefLogs
 
-  Git aliases
+	• Git aliases
+
+	• Q & A
+
