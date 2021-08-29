@@ -136,3 +136,7 @@ Advanced Git
 
 	• Q & A
 
+	Examples
+
+
+
